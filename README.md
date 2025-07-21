@@ -42,7 +42,7 @@ This analysis helps businesses better understand customer preferences, manage in
 
 ## 🖼️ Dashboard Preview
 
-![Customer Behavior Dashboard](Customer.png)
+![Customer Behavior Dashboard](https://github.com/raj-moorthy/Customer-Behaviour-Analysis-Dashboard/commit/c2546d4682f4de8aa3e01c57e5716d009ecd3075)
 
 ---
 
